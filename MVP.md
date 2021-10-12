@@ -2,12 +2,11 @@
 
 I realized that the following can be deducted from the USDA Farmers Markets (whole country) database: 
 
-- Frequency of the day of the week the market is set up. 
-- The seasonality 
-- Availability of Organics 
-- Availability of Benefits Programs 
-- Distribution of Categories 
-[images]
+- ![Frequency of the day of the week the market is set up] (https://github.com/zey-o/Farm_to_Table/blob/main/Weekdaychart.png)
+- ![The seasonality] (https://github.com/zey-o/Farm_to_Table/blob/main/Seasons.png)
+- ![Availability of Benefits Programs] (https://github.com/zey-o/Farm_to_Table/blob/main/Percentage%20of%20benefits%20programs%20allowed.png)
+- ![Distribution of Categories] 
+
 
 I narrowed the database to work with farmers markets in New York only, in the 5 boroughs (143 farms/rows). This allows for specificity and the reduction of data given the 70+ columns. 
 
