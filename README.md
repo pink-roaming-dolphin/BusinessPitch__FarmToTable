@@ -21,6 +21,11 @@ and 25% of the good-to-have product category (3rd tier). The assumption was made
 
 **Data**
 
+- Original Dataset and Preliminary EDA (with initial visualizations) available here: 
+[USDA Farmers Market Data](https://docs.google.com/spreadsheets/d/1rVTCxVADSRfiZGJwZ2GEJfxN4AseuxPIXi-up3wFEcg/edit#gid=537680647)
+
+(Dataset obtained from: [Kaggle](https://www.kaggle.com/madeleineferguson/farmers-markets-in-the-united-states))
+
 The data set contained 8804 markets to start off with, with 59 features for each market. 
 After an initial EDA on the larger dataset, we decided to focus on the markets in NYC, with 143 markets. 
 Of the features 29 of them focused on what products were sold at the market, and the rest included information such as: 
